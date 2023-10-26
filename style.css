@@ -1,0 +1,44 @@
+html{
+    background-color: rgba(165, 42, 42, 0.734);
+    background-image: url(./assets/images/360_F_403129738_N2Gm7gTu6nKNAM8fYTjLPIudC1WWhdMu.jpg);
+}
+
+#sexyfuck{
+    margin-left: 750px;
+    height: 600px;
+    width: 400px;
+    border: 20px solid rgba(97, 79, 12, 0.713);
+}
+.countdown{
+    margin-left:850px;
+    color:antiquewhite;
+}
+.NIHIL{
+    margin-left:880px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:antiquewhite;
+}
+.gloriousmatingsound{
+    margin-left:800px;
+}
+#moggy{
+    background-color: rgba(158, 102, 19, 0.353);
+    width: 500px;
+    padding: 50px;
+    margin-left: 650px;
+    margin-top: 0px;
+    border : solid rgb(171, 171, 176);
+    text-align: center;
+    color :bisque;
+}
+div{
+    background-color: rgba(222, 184, 135, 0.422);
+    color:antiquewhite;
+    text-align:center;
+    font-style: italic;
+    margin-top:200px;
+    padding:40px;
+    border:5px solid rgba(93, 80, 6, 0.628)
+}

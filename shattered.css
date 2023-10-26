@@ -1,0 +1,35 @@
+.shatter{
+
+    width: 600px;
+    height:950px;
+margin-left:25%;
+border-color: rgb(26, 24, 24);
+}
+.ing{
+    color:bisque;
+    margin-left: 35% ;
+    width:fit-content;
+    font-family: "Libre Baskerville", serif;
+}
+.sadying{
+    color:antiquewhite;
+    margin-left: 35%;
+    font-family: "Libre Baskerville", serif;
+    width:fit-content
+}
+html{
+    background-color: rgb(0, 0, 0);
+    
+}
+#myAudio{
+    margin-top: 500px;
+    color:black
+}
+#hide{
+    height:200px;
+    width: 400px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    z-index: 2;
+    top: 1500px;
+}
